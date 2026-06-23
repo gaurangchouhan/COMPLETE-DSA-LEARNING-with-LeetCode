@@ -8,10 +8,9 @@ class Solution {
         long[] up = new long[m];
         long[] down = new long[m];
 
-        // length = 2 initialization
         for (int a = 0; a < m; a++) {
-            up[a] = a;               // smaller values before it
-            down[a] = m - 1 - a;     // larger values before it
+            up[a] = a;               
+            down[a] = m - 1 - a;   
         }
 
         for (int len = 3; len <= n; len++) {
@@ -34,10 +33,10 @@ class Solution {
 
             for (int x = 0; x < m; x++) {
 
-                // y < x
+              
                 newUp[x] = prefDown[x];
 
-                // y > x
+          
                 newDown[x] =
                     (totalUp - prefUp[x + 1] + MOD) % MOD;
             }
