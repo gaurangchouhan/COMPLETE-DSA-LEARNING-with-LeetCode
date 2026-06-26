@@ -16,6 +16,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -27,9 +28,11 @@
 | ------- |
 | [0189-rotate-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -47,4 +50,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
