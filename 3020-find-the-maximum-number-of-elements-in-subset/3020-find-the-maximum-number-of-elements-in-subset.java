@@ -1,62 +1,31 @@
-import java.util.*;
-
-class Solution {
+public class Solution {
     public int maximumLength(int[] nums) {
-
-        Arrays.sort(nums);
-
-        HashMap<Long, Integer> freq = new HashMap<>();
-
-        for (int x : nums) {
-            freq.put((long) x, freq.getOrDefault((long) x, 0) + 1);
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.merge(num, 1, Integer::sum);
         }
-
-        int ans = 1;
-
-        // Handle 1 separately
-        if (freq.containsKey(1L)) {
-            int cnt = freq.get(1L);
-            ans = Math.max(ans, (cnt % 2 == 0) ? cnt - 1 : cnt);
+        int ans = map.getOrDefault(1, 1);
+        if (ans % 2 == 0) {
+            ans--;
         }
-
-        for (long x : freq.keySet()) {
-
-            if (x == 1) continue;
-
-            long cur = x;
-            int len = 0;
-
-            while (true) {
-
-                Integer cnt = freq.get(cur);
-
-                if (cnt == null) break;
-
-                if (cnt == 1) {
-                    len++;
-                    break;
-                }
-
-                // Prevent overflow while squaring
-                if (cur > 1000000000L / cur) {
-                    len++;
-                    break;
-                }
-
-                long next = cur * cur;
-
-                if (!freq.containsKey(next)) {
-                    len++;
-                    break;
-                }
-
-                len += 2;
-                cur = next;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getKey() == 1) {
+                continue;
             }
-
-            ans = Math.max(ans, len);
+            if (entry.getValue() >= 2) {
+                int c = 1;
+                long a = entry.getKey();
+                a *= a;
+                while (a < Integer.MAX_VALUE && map.getOrDefault((int) a, 0) >= 2) {
+                    a *= a;
+                    c++;
+                }
+                if (a < Integer.MAX_VALUE && map.getOrDefault((int) a, 0) == 1) {
+                    c++;
+                }
+                ans = Math.max(ans, 2 * c - 1);
+            }
         }
-
         return ans;
     }
 }
