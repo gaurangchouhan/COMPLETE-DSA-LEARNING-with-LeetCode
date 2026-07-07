@@ -1,4 +1,5 @@
 class Solution {
+    // Better Solution
     public long sumAndMultiply(int n) {
         long x = 0;
         long digit = 0;
@@ -37,4 +38,23 @@ class Solution {
         }
         return x*sum;
     }
+
+    // Optimal Solution
+
+    // public long sumAndMultiply(int n) {
+    //     int x=0;
+    //     int sum=0;
+    //     int i=1;
+    //     while(n>0){
+    //         int m=n % 10;
+    //         n /=10;
+    //         if(m == 0){
+    //             continue;
+    //         }
+    //         sum += m;
+    //         x += (m * i);
+    //         i *=10;
+    //     }
+    //     return (long) x * sum;
+    // }
 }
