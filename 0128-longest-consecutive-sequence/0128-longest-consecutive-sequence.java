@@ -26,3 +26,8 @@ class Solution {
         return ans;
     }
 }
+
+// Time Complexity: O(nlogn) +  O(n) = O(nlogn)
+//                  (Sorting)  (Loop)
+
+// Space Complexity: O(1) -> bcoz no extra space use in it
