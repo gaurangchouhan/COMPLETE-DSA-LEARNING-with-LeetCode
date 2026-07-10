@@ -1,46 +1,32 @@
 class Solution {
     public int longestValidParentheses(String s) {
-        // char one = '(';
-        // char two = ')';
-
-        // char[] ch = s.toCharArray();
-        // int cnt = 0;
-
-        // int l = 0;
-        // int r = ch.length-1;
-        // while (l<r) {
-        //     if (ch[l]==one && ch[r] == two) {
-        //         cnt+=2;
-        //         l++;
-        //         r--;
-        //     } 
-        //     else if (ch[l] == one && ch[r] == one) {
-        //         r--;
-        //     } else if (ch[l] == two && ch[r] == two) {
-        //         l++;
-        //     }else {
-        //         l++;
-        //         r--;
-        //     }
-        // }
-        // return cnt;
-
-        java.util.Deque<Integer> stack = new java.util.ArrayDeque<>();
-        stack.push(-1);
-        int ans = 0;
-
+        int left = 0, right = 0, maxLength = 0;
+        
+        // Left to Right
         for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
-                stack.push(i);
-            } else {
-                stack.pop();
-                if (stack.isEmpty()) {
-                    stack.push(i);
-                } else {
-                    ans = Math.max(ans, i - stack.peek());
-                }
+            if (s.charAt(i) == '(') left++;
+            else right++;
+            
+            if (left == right) {
+                maxLength = Math.max(maxLength, 2 * right);
+            } else if (right > left) {
+                left = right = 0;
             }
         }
-        return ans;
+        
+        left = right = 0;
+        // Right to Left
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == '(') left++;
+            else right++;
+            
+            if (left == right) {
+                maxLength = Math.max(maxLength, 2 * left);
+            } else if (left > right) {
+                left = right = 0;
+            }
+        }
+        
+        return maxLength;
     }
 }
