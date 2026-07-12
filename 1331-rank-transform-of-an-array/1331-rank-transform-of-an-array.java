@@ -7,7 +7,8 @@ class Solution {
         Map<Integer, Integer> rankMap = new HashMap<>();
         int rank = 1;
 
-        for (int x : copy) {
+        for (int i = 0; i < copy.length; i++) {
+            int x = copy[i];
             if (!rankMap.containsKey(x)) {
                 rankMap.put(x, rank++);
             }
