@@ -12,11 +12,11 @@ class Solution {
             prefixGcd[i] = GCD(a[i], mx[i]);
         }
 
-        Arrays.sort(prefixGcd);
+        Arrays.sort(prefixGcd);  // O(nlogn)
         long sum = 0;
 
         int k = n-1;
-        for (int i = 0; i < n/2; i++) {
+        for (int i = 0; i < n/2; i++) {      // O((n/2)logM)
             if (i == k){
                 break;
             }else {
@@ -27,6 +27,7 @@ class Solution {
         return sum;
     }
 
+    // Euclidean method of GCD (O((n)log(maximum value in the array(M))))
     private int GCD(int a, int b) {
         while (a>0 && b>0){
             if (a>b){
@@ -41,3 +42,7 @@ class Solution {
         return a;
     }
 }
+
+// Time Complexity: O(nlogM)+O(nlogn)+O((n/2)logM)) = O(nlogn+nlogM)
+// Space Complexity: O(n)  +    O(n)     =    O(2n)
+//                  mx[n]   prefixGcd[n]
