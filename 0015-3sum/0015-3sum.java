@@ -27,4 +27,4 @@ class Solution {
 //                 two for        hashmap
 //                 loop          (M - variable)
 
-// Space complexity: O(N) (N-number of elements)
+// Space complexity: O(N) * O(no. of unique elements)*2  (N-number of elements)
