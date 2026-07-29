@@ -1,0 +1,18 @@
+public class CountSubarrayXORk_03 {
+    public int subarrayCount(int[] a, int k){
+        int xr = 0;
+        int cnt = 0;
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        hm.put(0,1);
+        for (int i = 0; i < a.length; i++) {
+            xr = xr^a[i];
+            int x = xr^k;
+            cnt += hm.getOrDefault(x, 0);
+            hm.put(xr, hm.getOrDefault(xr, 0) + 1);
+        }
+        return cnt;
+    }
+}
+
+// Time Complexity: O(n) due to for loop 
+// Space complexity: O(n) due to map data structure 
