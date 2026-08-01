@@ -27,3 +27,7 @@ class Solution {
         return merged.toArray(new int[merged.size()][]);
     }
 }
+
+// Time Complexity: O(nlogn) + O(n)
+//                  sorting   for loop
+// Space Complexity: O(n) (List)
