@@ -7,6 +7,7 @@
 | [0032-longest-valid-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -41,6 +42,7 @@
 | [0118-pascals-triangle](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0283-move-zeroes) |
