@@ -20,3 +20,6 @@ class Solution {
         return ans;
     }
 }
+
+// Time complexity: O(log2(n)) because of using binary search 
+// Face Complexity: O(1)
