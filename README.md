@@ -75,6 +75,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -354,4 +355,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1510-stone-game-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
