@@ -18,3 +18,7 @@
         return Math.round(high);
     }
 }
+
+// Concept: binary search 
+// Time Complexity: O(logN)
+// Space complexity: O(1)
