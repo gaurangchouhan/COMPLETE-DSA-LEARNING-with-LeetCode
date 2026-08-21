@@ -19,7 +19,7 @@ class Solution {
             for(int i=0; i<n; i++){
                 div += (int) Math.ceil((double) a[i] /mid);
             }
-            // System.out.println("div " + mid + ":"+ div); debuging
+            // System.out.println("div " + mid + ":"+ div); debugging
 
             if(div <= t){
                 ans = Math.min(ans, mid);
@@ -34,7 +34,7 @@ class Solution {
 }
 
 // Concept: Binary Search
-// Time complexity: O(n)      +       O(logM)
+// Time complexity: O(n)      *       O(logM)
 //                 For loop         binary search 
 //            inside while loop   (M: the maximum element in the array)
 
