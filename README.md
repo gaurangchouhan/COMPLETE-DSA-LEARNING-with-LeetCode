@@ -57,6 +57,7 @@
 | [0162-find-peak-element](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -215,6 +217,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -337,6 +340,7 @@
 | [0048-rotate-image](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
