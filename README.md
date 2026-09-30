@@ -319,6 +319,7 @@
 | [0242-valid-anagram](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -432,6 +433,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurangchouhan/COMPLETE-DSA-LEARNING-with-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
